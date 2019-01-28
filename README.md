@@ -1,5 +1,8 @@
 ## ADE-TestBot: A White Box Testing Tool
 
+> NOTE: Due to Git LFS not allowing individual file sizes over 100MB to be uploaded, I have uploaded the entire code as a .zip file. Your first step should be to unzip it.
+
+## Intro
 The human dependency on computing technology is increasing exponentially, ranging
 from simple house hold chores to safety and mission critical tasks involving domains
 like healthcare, transportation and banking. Thus, it is becoming increasingly important
@@ -22,7 +25,7 @@ float
 ## Requirements
 - Visual Studio 2017 (https://visualstudio.microsoft.com/downloads/)  
 - Qt 5.6 or Qt 5.7 (https://download.qt.io/archive/qt/5.7/5.7.0/)
-- Qt Visual Studio tools extension 
+- Qt Visual Studio tools extension (https://marketplace.visualstudio.com/items?itemName=TheQtCompany.QtVisualStudioTools-19123)
 ## Project Demo (Performing Exception Test on C++ module)
 ![xx](README-assets/snap-1.png)
 ## Screen 2
