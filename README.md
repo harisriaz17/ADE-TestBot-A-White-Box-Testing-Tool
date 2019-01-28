@@ -11,7 +11,14 @@ test (SUT). Other unique features of the presented testing tool, ADE TestBot, in
 
 ## Methodology
 ![Methodology](README-assets/snap-100.png)
-## Project Demo (Performing Assertion Test on C++ module)
+## Supported function return types
+```
+int
+bool
+double
+float
+```
+## Project Demo (Performing Exception Test on C++ module)
 ![xx](README-assets/snap-1.png)
 ## Screen 2
 ![xx](README-assets/snap-2.png)
