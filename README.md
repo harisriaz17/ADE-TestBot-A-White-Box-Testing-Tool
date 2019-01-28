@@ -6,20 +6,20 @@ like healthcare, transportation and banking. Thus, it is becoming increasingly i
 that these softwares running on computers work without any major flaws.
 
 Software testing is used to ensure an error free completion of the tasks performed by a software.
-ADE Testbot is a white box testing tool that is capable of performing dead code, exception and assertion testing of a software under
+ADE Testbot is a white box testing tool that is capable of performing dead code, exception and assertion testing of a C++ software under
 test (SUT). Other unique features of the presented testing tool, ADE TestBot, include its easy to use graphical user interface (GUI) and its open-source nature.
 
 ## Methodology
 ![Methodology](README-assets/snap-100.png)
-## Project Demo screen1
+## Project Demo (Performing Assertion Test on C++ module)
 ![xx](README-assets/snap-1.png)
-## Project Demo screen2
+## Screen 2
 ![xx](README-assets/snap-2.png)
-## Project Demo screen3
+## Screen 3
 ![xx](README-assets/snap-3.png)
-## Project Demo screen4
+## Screen 4
 ![xx](README-assets/snap-4.png)
-## Project Demo screen5
+## Screen 5
 ![xx](README-assets/snap-5.png)
 
 
