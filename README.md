@@ -10,5 +10,5 @@ ADE Testbot is a white box testing tool that is capable of performing dead code,
 test (SUT). Other unique features of the presented testing tool, ADE TestBot, include its easy to use graphical user interface (GUI) and its open-source nature.
 
 ## Methodology
-![Methodology](README-assets/snapshot-100.png)
+![Methodology](README-assets/snap-100.png)
 
